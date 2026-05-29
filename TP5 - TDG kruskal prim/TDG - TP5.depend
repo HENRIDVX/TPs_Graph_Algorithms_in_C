@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665405480 source:c:\users\davro\documents\codeblocks scripts\tdg - tp5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1665331993 c:\users\davro\documents\codeblocks scripts\tdg - tp5\header.h
+
+1665759369 source:c:\users\davro\documents\codeblocks scripts\tp5 - tdg kruskal prim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1665472276 c:\users\davro\documents\codeblocks scripts\tp5 - tdg kruskal prim\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1697195045 source:c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp5 - tdg kruskal prim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1665472276 c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp5 - tdg kruskal prim\header.h
+	<stdio.h>
+	<stdlib.h>
+

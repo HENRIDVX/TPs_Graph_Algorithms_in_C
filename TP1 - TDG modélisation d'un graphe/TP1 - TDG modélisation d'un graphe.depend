@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694787511 source:c:\users\davro\documents\codeblocks scripts\tp1 - tdg modélisation d'un graphe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sommet.h"
+
+1694589181 c:\users\davro\documents\codeblocks scripts\tp1 - tdg modélisation d'un graphe\graphe.h
+	"sommet.h"
+
+1694362671 c:\users\davro\documents\codeblocks scripts\tp1 - tdg modélisation d'un graphe\sommet.h
+

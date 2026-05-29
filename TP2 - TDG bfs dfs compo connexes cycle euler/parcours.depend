@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1582584981 source:d:\cours\2019-2020\ing2\tg\ci\ci2\parcours\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+

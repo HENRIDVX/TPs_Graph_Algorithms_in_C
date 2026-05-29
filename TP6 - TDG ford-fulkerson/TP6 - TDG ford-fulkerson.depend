@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1666986883 source:c:\users\davro\documents\codeblocks scripts\tp6 - tdg ford-fulkerson\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"fifo.h"
+	"file.h"
+
+1666519946 c:\users\davro\documents\codeblocks scripts\tp6 - tdg ford-fulkerson\header.h
+
+1665935010 c:\users\davro\documents\codeblocks scripts\tp6 - tdg ford-fulkerson\fifo.h
+	"cellule.h"
+
+1665935001 c:\users\davro\documents\codeblocks scripts\tp6 - tdg ford-fulkerson\cellule.h
+
+1665930790 c:\users\davro\documents\codeblocks scripts\tp6 - tdg ford-fulkerson\file.h
+
+1697285355 source:c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp6 - tdg ford-fulkerson\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+	"fifo.h"
+	"file.h"
+
+1666519946 c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp6 - tdg ford-fulkerson\header.h
+
+1665935010 c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp6 - tdg ford-fulkerson\fifo.h
+	"cellule.h"
+
+1665935001 c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp6 - tdg ford-fulkerson\cellule.h
+
+1665930790 c:\users\davro\documents\ece\2023 2024 - ing2\1er semestre\informatique\théorie des graphes\tdtps\codes\tp6 - tdg ford-fulkerson\file.h
+
